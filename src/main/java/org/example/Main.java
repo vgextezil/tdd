@@ -2,7 +2,7 @@ package org.example;
 /*
   @author   hakmandul
   @project   untitled
-  @class  classe
+  @class  Main
   @version  1.0.0
   @since 2/9/24 - 08.17
 */

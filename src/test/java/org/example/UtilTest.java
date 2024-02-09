@@ -1,4 +1,11 @@
 package org.example;
+/*
+  @author   hakmandul
+  @project   untitled
+  @class  UtilTest
+  @version  1.0.0
+  @since 2/9/24 - 08.17
+*/
 
 import org.junit.Test;
 
